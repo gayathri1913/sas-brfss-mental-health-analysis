@@ -17,7 +17,7 @@ This project analyzes data from the **2018 Behavioral Risk Factor Surveillance S
   - Health behaviors (smoking status)
   - Health outcomes (depressive disorder diagnosis, general health, poor mental health days, poor physical/mental health days)
 
- *Data files are not included in this repository due to size and licensing. 
+ Data files are not included in this repository due to size and licensing. 
 ---
 
 ##  Tools & Methods
