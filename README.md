@@ -39,11 +39,11 @@ This project analyzes data from the **2018 Behavioral Risk Factor Surveillance S
 
 ---
 
-## 👩‍💻 Author
+##  Author
 **Gayathri Karthikeyan**  
 Master of Public Health (MPH), Epidemiology & Biostatistics  
 Boston University School of Public Health  
-📫 [LinkedIn](https://www.linkedin.com/in/gayathri-karthikeyan)
+[LinkedIn](https://www.linkedin.com/in/gayathri-karthikeyan)
 
 ---
 
