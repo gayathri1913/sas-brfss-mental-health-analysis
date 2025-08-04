@@ -24,7 +24,7 @@ This project analyzes data from the **2018 Behavioral Risk Factor Surveillance S
 - **Software:** SAS Studio
 ---
 
-## 📈 Key Findings
+##  Key Findings
 - Statistically significant differences were found between heterosexual and non-heterosexual participants in:
   - Race/ethnicity distribution
   - Age group
